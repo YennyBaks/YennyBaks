@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=900&color=4F46E5&center=true&vCenter=true&width=620&lines=Turning+operational+data+into+decisions;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Tableau;Warehouses%2C+payments%2C+edtech%2C+e-commerce" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=900&color=4F46E5&center=true&vCenter=true&width=620&lines=Turning+operational+data+into+decisions;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Tableau;Warehouses%2C+fintech%2C+edtech%2C+e-commerce" alt="Typing intro">
 </p>
 
 ---
